@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBlueStone">#145D63</color>
+    <color name="colorLinen">#F9F1EA</color>
+    <color name="colorMediumTurn">#54C9CF</color>
+    <color name="colorDesert">#F1E8DE</color>
+    <color name="colorLemon">#999990</color>
+    <color name="colorlogan">#A3A0B7</color>
+    <color name="colorWhite">#ffffff</color>
+</resources>
